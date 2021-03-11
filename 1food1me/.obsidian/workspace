@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "5762d06b7821f1bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "9020ea058e3b62da",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Untitled 2.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4360b742fd21220",
+    "type": "split",
+    "children": [
+      {
+        "id": "c589c4b698477fb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6be10d050f48784c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8735b772a3d055d5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237
+  },
+  "right": {
+    "id": "608821bfa72071f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "08d93e6ecb43ac49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c0a20e4f0477c23",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled 2.md",
+    "Untitled 3.md",
+    "Untitled 1.md",
+    "Weekly.md",
+    "Wordpress.md",
+    "Issues/628.md",
+    "Untitled.md",
+    "🆘 1f1me docker exec PSQL.md",
+    "One to One.md",
+    "Code to eli5.md"
+  ]
+}
