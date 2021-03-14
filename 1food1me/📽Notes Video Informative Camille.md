@@ -78,7 +78,6 @@
 7. En attente du bilan de contôle. 
 
 
-
 <option value="controlWaiting">en attente du bilan de contrôle</option>
 
 

@@ -8,7 +8,7 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -50,7 +50,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 255
   },
   "right": {
     "id": "5a808c90087b175c",
@@ -81,5 +81,11 @@
     "width": 300,
     "collapsed": true
   },
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "1food1me/Wordpress.md",
+    "README.md",
+    "1food1me/Weekly.md",
+    "1food1me/Untitled.md",
+    "1food1me/📽Notes Video Informative Camille.md"
+  ]
 }
